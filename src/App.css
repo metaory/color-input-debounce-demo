@@ -196,7 +196,6 @@
   font-weight: 700;
   color: rgba(255, 255, 255, 0.9);
   margin: 0.25rem 0;
-  font-family: monospace;
 }
 
 @media (max-width: 768px) {
